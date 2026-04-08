@@ -4,7 +4,7 @@ A real-time chat application using Python TCP Sockets for CMPT-371 Assignment 3.
 
 ## Team Member
 - **Name**: Daniel  
-- **Student ID**: [Your Student ID Here]  
+- **Student ID**: 301428609
 - **Email**: dgtutv@gmail.com
 
 ## Project Description
